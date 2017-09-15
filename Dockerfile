@@ -13,7 +13,7 @@ RUN \
     cp ./src/nyancat /usr/local/bin/ && \
     cd / && rm -rf /tmp/nyancat && \
 
-    cd /tmp && git clone https://github.com/ddhhz/onenetd.git && \
+    cd /tmp && git clone https://github.com/ThomasRunting/onenetd.git && \
     cd /tmp/onenetd && autoreconf -vfi && ./configure && make && \
     cp ./onenetd /usr/local/bin && \
     cd / && rm -rf /tmp/onenetd && \
