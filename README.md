@@ -16,7 +16,7 @@ $ telnet nyancat.whe.me
 
 ### Telnet Server
 ```bash
-$ docker run -d --name nyancat-server --restart=always -p 23:23 ddhhz/nyancat-server
+$ docker run -d --name nyancat-server --restart=always -p 23:23 deadmeatgames/nyancat-server
 ```
 
 ##### To view:
@@ -26,7 +26,7 @@ $ telnet <localhost or serverhost>
 
 ### View Locally, aka show me the cat
 ```bash
-$ docker run -d --name nyancat-local ddhhz/nyancat-server
+$ docker run -d --name nyancat-local deadmeatgames/nyancat-server
 
 $ docker exec -it nyancat-local nyancat
 ```
