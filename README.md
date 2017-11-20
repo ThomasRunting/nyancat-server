@@ -1,6 +1,6 @@
 # Nyancat Telnet Server
 
-[![Docker Stars](https://img.shields.io/docker/stars/ddhhz/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/) [![Docker Pulls](https://img.shields.io/docker/pulls/ddhhz/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/) [![Docker Build](https://img.shields.io/docker/build/ddhhz/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/builds/) [![Docker Image Size and Layers](https://images.microbadger.com/badges/image/ddhhz/nyancat-server.svg)](https://microbadger.com/images/ddhhz/nyancat-server)
+[![Docker Stars](https://img.shields.io/docker/stars/deadmeatgames/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/) [![Docker Pulls](https://img.shields.io/docker/pulls/deadmeatgames/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/) [![Docker Build](https://img.shields.io/docker/build/deadmeatgames/nyancat-server.svg)](https://hub.docker.com/r/ddhhz/nyancat-server/builds/) [![Docker Image Size and Layers](https://images.microbadger.com/badges/image/deadmeatgames/nyancat-server.svg)](https://microbadger.com/images/deadmeatgames/nyancat-server)
 
 Docker Image for a nyancat telnet server.
 
