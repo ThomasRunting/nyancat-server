@@ -1,4 +1,4 @@
-FROM alpine:3.8.1
+FROM alpine:3.8
 LABEL \
     maintainer="Wei He <docker@weispot.com>" \
     verion="1.0" \
